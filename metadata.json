@@ -1,0 +1,6 @@
+{
+  "name": "Fleurs de Saison",
+  "description": "Independent flower shop in Strasbourg creating seasonal bouquets, wedding arrangements, and custom floral decorations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
